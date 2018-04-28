@@ -1,4 +1,4 @@
-date      ,      rest, totalPrice, countAttendee, pricePerAttendee
+date      ,      rest, totalPrice, countAttendee, pricePerAttendee, note
 2016-07-02,      1900, 30600     , 13           , 2500
 2016-08-28,         0,,,
 2016-10-30,        30,,,
@@ -14,3 +14,4 @@ date      ,      rest, totalPrice, countAttendee, pricePerAttendee
 2017-11-26,       290, 52710     , 18           , 3000
 2017-12-17,       120, 19680     ,  6           , 3000
 2018-01-21,       280, 36020     , 12           , 3300
+2018-04-28,     -1766, -1766     ,  0           ,                 , 技術書典で配った名刺代
