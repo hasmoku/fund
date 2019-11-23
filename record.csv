@@ -33,3 +33,4 @@ date      ,      rest, totalPrice, countAttendee, pricePerAttendee, note
 2019-09-28,         0, 16800     ,  9           , 2100            , 学生枠が一人
 2019-10-26,       700, 18200     ,  9           , 2100            ,
 2019-11-12,    -15740,           ,              ,                 , Haskell-jp Tシャツの一部として https://github.com/haskell-jp/community/issues/20#issuecomment-552264499
+2019-11-23,       100, 14600     ,  7           , 2100            ,
